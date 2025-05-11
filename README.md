@@ -11,29 +11,29 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="350" />
 </div>
 
-### 🌈 **🧑‍💻 B A C K E N D   D E V E L O P E R**
+### 🌈 <span style="font-weight: bold; letter-spacing: 3px;">🧑‍💻 B A C K E N D   D E V E L O P E R</span>
 
-🎓 **Completed** `B.Tech in Computer Science`  
-🏫 **Axis Institute of Technology and Management**
-
----
-
-### 🔥 **A B O U T   M E**
-
-- 🚀 Passionate about building **scalable backend systems**
-- 🌱 Currently learning **API design**, **security**, and **DevOps**
-- 🤝 Open to **open-source**, **internships**, and **collaborations**
-- 🧠 Constant learner and tech enthusiast
-- 📬 [choreohritik52@gmail.com](mailto:choreohritik52@gmail.com)
-- 📱 +91 7388503329
-- 💃 Love **dancing**, **swimming**, and **fitness**
+🎓 **Completed** <strong style="color:#00c7ff;">B.Tech in Computer Science</strong>
+🏫 <strong>Axis Institute of Technology and Management</strong>
 
 ---
 
-### 💻 **T E C H   S T A C K**
+### 🔥 <span style="font-weight: bold; letter-spacing: 3px;">A B O U T   M E</span>
+
+* 🚀 Passionate about building **scalable backend systems** and solving real-world problems
+* 🌱 Currently improving my skills in **API design**, **security**, and **DevOps**
+* 🤝 Looking for **open-source contributions**, **internships**, and **collaborations**
+* 🧠 Constant learner and tech enthusiast
+* 📬 [choreohritik52@gmail.com](mailto:choreohritik52@gmail.com)
+* 📱 +91 7388503329
+* 💃 Love **dancing**, **swimming**, and **fitness**
+
+---
+
+### 💻 <span style="font-weight: bold; letter-spacing: 3px;">T E C H   S T A C K</span>
 
 <p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" /></a>
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 **G I T H U B   S T A T S**
+### 📊 <span style="font-weight: bold; letter-spacing: 3px;">G I T H U B   S T A T S</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hritik7388&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -62,19 +62,14 @@
 </p>
 
 ---
+ 
 
-### 📌 **M O S T   U S E D   S K I L L S**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritik7388&layout=pie&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 **C O N N E C T   W I T H   M E**
+### 🌐 <span style="font-weight: bold; letter-spacing: 5px;">C O N N E C T    W I T H    M E</span>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hritik-bhadauria-588024205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/hritik7388/hritik7388"><img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/ru_st_ic/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+---
