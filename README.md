@@ -63,7 +63,7 @@
 
 ---
 
-### 🌐 <span style="font-weight: bold; letter-spacing: 3px;">C O N N E C T   W I T H   M E</span>
+### 🌐 <span style="font-weight: bold; letter-spacing: 5px;">C O N N E C T    W I T H    M E</span>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hritik-bhadauria-588024205/">
