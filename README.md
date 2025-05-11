@@ -75,11 +75,4 @@
 </p>
 
 ---
-
-### 🌙☀️ Theme Toggle (You’ll need to handle this in your GitHub Pages site or personal website using JavaScript and CSS)
-
-You can implement theme toggling using a simple script on your portfolio site, not directly in a README file as GitHub Markdown doesn’t support JS.
-
----
-
-Would you like me to create a full **portfolio site** version of this with dark/light mode, animated boy coding on the right, and full responsive layout?
+ 
