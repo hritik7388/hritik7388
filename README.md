@@ -80,11 +80,4 @@
 </p>
 
 ---
-
-### 🖋️ <span style="font-weight: bold; letter-spacing: 3px;">F O N T   S T Y L E   N O T E</span>
-
-> For the "Sofia on Fire" font to render correctly on GitHub, you must use a browser extension or a local Markdown renderer that supports custom fonts. GitHub Markdown does **not** support custom web fonts like `'Sofia'`. The gradient effect, however, works visually.
-
----
-
-Let me know if you’d like to add custom badges for certifications or contributions.
+ 
