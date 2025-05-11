@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hritik Bhadauria
 
 ### 🧑‍💻 Backend Developer  
-🎓 Pursuing **B.Tech in Computer Science**  
+🎓 Completed **B.Tech in Computer Science**  
 🏫 **Axis Institute of Technology and Management**
 
 ---
