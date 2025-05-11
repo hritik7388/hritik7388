@@ -36,21 +36,50 @@
 ### 💻 <span style="font-weight: bold; letter-spacing: 3px;">T E C H   S T A C K</span>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
-  <img src="https://nestjs.com/img/logo-small.svg" height="50" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-  <img src="https://redmonk.com/jgovernor/files/2021/05/Prisma-Logo-Black.png" height="50" alt="Prisma ORM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="50" alt="Socket.io" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="50" alt="Cron Jobs" />
-  <img src="https://static.startuptalky.com/2022/03/Razorpay-Logo-Success-Story-Startuptalky.jpg" height="50" alt="Razorpay" />
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://nestjs.com/img/logo-small.svg" height="50" alt="NestJS" />
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.prisma.io" target="_blank">
+    <img src="https://redmonk.com/jgovernor/files/2021/05/Prisma-Logo-Black.png" height="50" alt="Prisma ORM" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  </a>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="50" alt="Socket.io" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Cron" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="50" alt="Cron Jobs" />
+  </a>
+  <a href="https://razorpay.com" target="_blank">
+    <img src="https://static.startuptalky.com/2022/03/Razorpay-Logo-Success-Story-Startuptalky.jpg" height="50" alt="Razorpay" />
+  </a>
 </p>
+
 
 ---
 
