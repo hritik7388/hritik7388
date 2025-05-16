@@ -53,15 +53,6 @@
 </p>
 
 ---
-
-### 📊 <span style="font-weight: bold; letter-spacing: 3px;">G I T H U B   S T A T S</span>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritik7388&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritik7388&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
  
 
 ### 🌐 <span style="font-weight: bold; letter-spacing: 5px;">C O N N E C T    W I T H    M E</span>
